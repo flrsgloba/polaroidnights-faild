@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa23BE2F62955ec59489FEC19105E500B8a5F6c61",
+  "SCAN_LINK": "https://etherscan.io/address/0xa23be2f62955ec59489fec19105e500b8a5f6c61",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 137
+  },
+  "NFT_NAME": "Polaroid Nights",
+  "SYMBOL": "POLAROID",
+  "MAX_SUPPLY": 172,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polaroidnights",
+  "SHOW_BACKGROUND": true
+}
